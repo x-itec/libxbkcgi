@@ -1,0 +1,62 @@
+<HTML>
+<form name="form1" method="post" action="test_1.cgi" enctype="multipart/form-data">
+  <table width="99%" border="1">
+    <tr> 
+      <td> 
+        <input type="text" name="textfield">
+        <br>
+        <textarea name="textarea"></textarea>
+        <br>
+        <input type="password" name="password_textfield" value="">
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td> 
+        <input type="submit" name="Submit_ButtonName" value="Submit_Labeltext">
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td> 
+        <input type="checkbox" name="checkbox" value="checkbox">
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td> 
+        <input type="radio" name="radiobutton" value="radiobutton">
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td> 
+        <select name="select">
+          <option value="value1" selected>label1</option>
+          <option value="value2">label2</option>
+        </select>
+        <select name="select2" size="3" multiple>
+          <option value="value1" selected>label1</option>
+          <option value="value2">label2</option>
+        </select>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td> 
+        <input type="file" name="file">
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="hiddenField" value="hidden_content">
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+</form>
+
+
+</HTML>
+
