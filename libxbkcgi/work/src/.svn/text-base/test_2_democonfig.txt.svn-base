@@ -1,5 +1,0 @@
-# Das ist ein Kommentar
-parameter1=Parameterwert mit ; mittendrin und am Ende als Trenner Return
-parameter2="Ein Parameter mit Anführungszeichen"
-parameter3="So gehts ebenfalls, ; Anführungszeichen und Semikolon";
-parameter4=Es geht auch ohne Anführungszeichen mit Semikolon;
